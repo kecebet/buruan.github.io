@@ -1,0 +1,2 @@
+grep -rl "buruan-claim-kuponmu-sekarang" . | xargs sed -i "s/buruan-claim-kuponmu-sekarang/new-name/g"
+grep -rl "Buruan Claim Kuponmu Sekarang" . | xargs sed -i "s/Buruan Claim Kuponmu Sekarang/New Name/g"
