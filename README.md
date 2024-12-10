@@ -1,0 +1,1 @@
+# buruan.github.io
